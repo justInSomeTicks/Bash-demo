@@ -7,3 +7,8 @@ The main interface of this analytical pipeline is contained in `./kmer-gwas/run-
 
 ## Biological background
 For those interested in the biological backgrond of this internship; we performed a kmer-based genome wide association study (GWAS) on different populations of crops, which was a relatively novel technique at that time. In this, I used and sampled genome data of about 200 different plants of 'prickly lettuce' into substrings of DNA with a defined length (k-mers) and correlated these with corresponding data of about 50 different phenotypical traits (such as leaf-color/-shape or time-to-flowering). Doing this, we were able to further validate the efficacy of the technique, and also appoint candidates of yet unknown genetic factors that influenced real-life traits of the plant.
+
+
+## Notes
+- These scripts are not functional without appropriate genetic- and phenotypic data. Unfortunately I could not include these due to legal reasons.
+- This repository was created for resume/portfolio purposes.
